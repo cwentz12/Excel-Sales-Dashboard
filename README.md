@@ -5,6 +5,13 @@
 ## Project Summary
 I used a dataset of 2020 sales data to generate pivot tables and data visualizations. Then, I combined the charts into a summary dashboard to answer stakeholder questions.
 
+## Key Project Skills
+* Microsoft Excel
+* Data Analysis
+* Pivot Tables
+* Data Visualizations
+* Dashboards
+
 ## Key Stakeholder Questions
 The questions asked by stakeholders included:
 <i>
@@ -27,10 +34,3 @@ Further questions that could be answered include:
 </i><br>
 
 The project could be improved by adding more interactivity to the dashboard, such as the drill-through behavior and slicers in PowerBI. The dashboard could also be modified to update in real time to new sales data. A dashboard that incorporates live data along with historical data in forecasting models could quickly adjust to changing consumer environments. In 2020, the Covid-19 pandemic began and the retail environment changed as demand for certain items surged and people switched to contactless delivery. Dashboards could quickly alert store leadership to emerging consumer trends and help them adjust market strategy accordingly. 
-
-## Key Project Skills
-* Microsoft Excel
-* Data Analysis
-* Pivot Tables
-* Data Visualizations
-* Dashboards
