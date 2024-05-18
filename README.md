@@ -1,6 +1,6 @@
 # Excel Sales Dashboard
 
-
+![Dashboard Summary](https://github.com/cwentz12/Excel-Sales-Dashboard/assets/115527862/caa6166b-1747-40b3-891c-285cd93b67c5)
 
 ## Project Summary
 I used a dataset of 2020 sales data to generate pivot tables and data visualizations. Then, I combined the charts into a summary dashboard to answer stakeholder questions.
